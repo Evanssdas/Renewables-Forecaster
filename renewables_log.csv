@@ -1,0 +1,2 @@
+date_made,target_date,pred_wind_gw,actual_wind_gw,wind_err,pred_solar_gw,actual_solar_gw,status
+2026-07-11,2026-07-12,9.06,,,4.23,,ok
