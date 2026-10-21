@@ -94,3 +94,4 @@ date_made,target_date,pred_wind_gw,actual_wind_gw,wind_err,pred_solar_gw,actual_
 2026-10-18,2026-10-19,9.24,8.67,0.57,1.06,,ok
 2026-10-19,2026-10-20,,,,,,skipped: ReadTimeout
 2026-10-20,2026-10-21,,,,,,skipped: ReadTimeout
+2026-10-21,2026-10-22,,,,,,skipped: ReadTimeout
